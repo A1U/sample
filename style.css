@@ -1,0 +1,99 @@
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
+.header{
+    height: 60px;
+    width: 100%;
+    background-color:black;
+}
+.ibm_logo{
+    height: 20px;
+    width: 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+
+.ibm_name{
+    color: white;
+padding-left: 50%;
+margin-top: -30px;
+
+
+}
+.image{
+  margin-top: 30px;
+  margin-left: 20px;
+  
+
+}
+.content{
+    display: flex;
+    color:black;
+    margin-top: 30px;
+    margin-left: 40px;
+    /* background-color:crimson; */
+
+word-spacing: 1px;
+}
+.content_1{
+    /* margin-left: 20px; */
+    margin-right: 200px;
+    padding-left: 20px;
+    
+
+    background-color:crimson;
+    height: 100px;
+
+}
+.content_2{
+    margin-right: 180px;
+    padding-left: 20px;
+    margin-left: 30px;
+    
+
+    background-color:crimson;
+    height: 100px;
+
+}
+.image_content{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-left: 30px;
+}
+.footer{
+    background-color: orange;
+    margin-top: 50px;
+    color: black;
+    height: 200px;
+    display: flex;
+
+}
+.footer_content{
+    padding-top: 30px;
+padding-left: 30px;
+}
+.email{
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 290px;
+}
+.signing{
+    margin-left: 20px;
+   
+}
+.community{
+    margin-top: 30px;
+    margin-left: 240px;
+    margin-right: 400px;
+    
+}
+.community_2{
+    margin-top: 30px;
+    /* margin-left: 50px; */
+    margin-right: 140px;
+}
